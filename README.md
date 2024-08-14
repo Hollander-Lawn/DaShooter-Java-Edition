@@ -15,7 +15,7 @@ This game is made in Javax Swing which is a lightweight java library and is thus
 
 Min specs: Intel Core i5 7th Gen with at least 8GB of RAM (4GB for windows, 2GB for Game lag, and 20MB for game itself, rest for buffer).
 
-Operating System Support: Windows, MacOS, iPadOS, iOS, Android
+Operating System Support: Windows, MacOS, Linux
 
 Made with Java. Using Javax Swing library. 
 
