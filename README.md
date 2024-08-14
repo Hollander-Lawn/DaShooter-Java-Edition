@@ -7,7 +7,7 @@ Java runtime Enviroment is Needed. Download here at: https://www.java.com/en/
 
 # DaShooter background story
 
-Once upon a time, a army of square blocks (a.k.a. VlahVlahVlah Armines) from the blockiverse came to attack your homeland BlahBlahBlekSheeepLand. This army was insanely powerful, and the king of BlahBlahBlekSheeepLand(a.k.a King AliBlahBlah IX) decided to you money to buy a gun to help defeat VlahVlahVlah Da EVil.
+Once upon a time, a army of square blocks (a.k.a. VlahVlahVlah Armines (singular: VlahVlahVlah Armine) from the blockiverse came to attack your homeland BlahBlahBlekSheeepLand. This army was insanely powerful, and the king of BlahBlahBlekSheeepLand(a.k.a King AliBlahBlah IX) decided to give you money to buy a gun to help defeat VlahVlahVlah Army.
 
 # Requirements:
 
