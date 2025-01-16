@@ -20,4 +20,4 @@ Operating System Support: Windows, MacOS, Linux
 
 Made with Java. Using Javax Swing library. 
 
-Copyright(c) Unreal Quantum Technologies Inc. DO NOT DISTRIBUTE! 8w14a-snapshot . main tag here: https://github.com/Hollander-Lawn/DaShooter-Java-Edition/tree/8w14a-Snapshot
+Copyright(c) Unreal Quantum Technologies Inc. DO NOT DISTRIBUTE! 8w14a-snapshot . main tag here: https://github.com/Hollander-Lawn/DaShooter-Java-Edition/tree/Beta-1.5.0-Walls-and-Obstructions-update
